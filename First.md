@@ -1,3 +1,5 @@
-# Markdown shocase
+# Markdown showcase
 
-My firts line here
+My first line here.
+
+Second line is added here.
